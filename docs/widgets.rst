@@ -45,8 +45,6 @@ If the option ``mask`` defined, the button activates only if the mouse is over
 a pixel with non-zero alpha.
 You can provide additional ``hovered`` and ``active`` images, but the widget area
 is always computed from the ``normal`` image.
-You can provide additional ``hovered`` and ``active`` images, but the widget area
-is always computed from the ``normal`` image.
 
 **Additional Options:**
 
